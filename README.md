@@ -8,7 +8,7 @@
 
 ### Connect with me: 
 [<img align="left" alt="erikkohleisen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<!--[<img align="left" alt="erikkohleisen | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]-->
+[<img align="left" alt="erikkohleisen | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br/>
 
@@ -20,3 +20,4 @@
 <br/>
 
 [instagram]: http://www.instagram.com/erikkohleisen
+[twitter]: https://twitter.com/erikkohleisen
