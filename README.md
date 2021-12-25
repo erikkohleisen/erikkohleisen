@@ -1,7 +1,7 @@
-### Hi there I'm Erik 👋🏼
+# Hi there I'm Erik 👋🏼
 
 ## I'm a computerscience student currently in my 7th semester 🧑🏼‍💻
-# Coming next: Bachelor Thesis
+### Coming next: Bachelor Thesis
 
 
 ### Connect with me: 
