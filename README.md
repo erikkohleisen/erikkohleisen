@@ -1,9 +1,7 @@
 ### Hi there I'm Erik 👋🏼
 
-## I'm a computerscience student currently in my 5th semester 🧑🏼‍💻
-- 💩
-- 🙃
-- 🧑🏼‍💻Still learning
+## I'm a computerscience student currently in my 7th semester 🧑🏼‍💻
+# Coming next: Bachelor Thesis
 
 
 ### Connect with me: 
